@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: hellopython
+Version: 0.0.1
+Summary: A package to convert your Jupyter Notebook
+Home-page: https://github.com/foreachtech/hellopython/
+Author: Thang Le Tan
+Author-email: letanthang@gmail.com
+License: UNKNOWN
+Description: Hello world program in python3 
+        Dev by Le Tan Thang
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
